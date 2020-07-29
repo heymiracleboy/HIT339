@@ -8597,11 +8597,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tommy\\Desktop\\week1HelloWorldMVC\\MVCmovie\\MVCmovie.csproj",
-      "projectName": "MVCmovie",
-      "projectPath": "C:\\Users\\Tommy\\Desktop\\week1HelloWorldMVC\\MVCmovie\\MVCmovie.csproj",
+      "projectUniqueName": "C:\\Users\\Tommy\\Desktop\\git\\HIT339\\MVCmovie\\MvcMovie.csproj",
+      "projectName": "MvcMovie",
+      "projectPath": "C:\\Users\\Tommy\\Desktop\\git\\HIT339\\MVCmovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tommy\\Desktop\\week1HelloWorldMVC\\MVCmovie\\obj\\",
+      "outputPath": "C:\\Users\\Tommy\\Desktop\\git\\HIT339\\MVCmovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",
