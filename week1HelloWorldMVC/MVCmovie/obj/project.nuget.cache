@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UPvrBg3puMEmo75kwGX1rA/jmF3j4mfEohz39kMKfUaUANNqW4nuO6ICYoONe6Agq9CROEvGNxwd/p/XnNecxA==",
+  "dgSpecHash": "HqkfWsj88c8+JQa5Cd74/PvrRGVUKtB4NPKQ65BqdVl1lK3DCutyyw3S79v7sbVnjKKWcTxZvIXgEeWSejXl0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommy\\Desktop\\git\\HIT339\\MVCmovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\Tommy\\Desktop\\git\\HIT339\\week1HelloWorldMVC\\MVCmovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tommy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Tommy\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
